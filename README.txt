@@ -1,18 +1,20 @@
 ## TO DO:
 
-1. Copy all images on Eight's profile page and edit html img links to private hosting (wordpress)
-2. Copy all images from krovris.neocities.com to krovris.space
-3. Redesign Eight's profile page / update to a more modern 'tesseract' profile
-4. Redesign Morningstar's profile page
-5. Design Kopek's profile
-6. Design Calypso's profile
+- [x] Copy all images on Eight's profile page and edit html img links to private hosting (wordpress)
+
+- [ ] Copy all images from krovris.neocities.com to krovris.space
+
+- [x] Redesign Eight's profile page / update to a more modern 'tesseract' profile
+- [ ] Redesign Morningstar's profile page
+- [ ] Design Kopek's profile
+- [ ] Design Calypso's profile
 
 ## Ideas:
 
-?) rewrite the character template to make editing easier
-?) share template on toyhouse
-?) design a warning page for Toyhouse
-?) find out how to make recordings of each page to put on portfolio site (krovris.space)
+- rewrite the character template to make editing easier
+- share template on toyhouse
+- design a warning page for Toyhouse
+- find out how to make recordings of each page to put on portfolio site (krovris.space)
 
 ## Important!
 
